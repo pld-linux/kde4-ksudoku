@@ -4,12 +4,12 @@
 
 Summary:	Ksudoku
 Name:		kde4-%{orgname}
-Version:	4.12.4
+Version:	4.13.0
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	ba510a04c2ffafeb97f4cd72f8e59bc7
+# Source0-md5:	17e05b55935f83a73338796c76f512d1
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
